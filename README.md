@@ -13,4 +13,4 @@ random_num
 
 • Applied simple styling for better user experience.
 
-
+Project Link: https://randomnum1.vercel.app
